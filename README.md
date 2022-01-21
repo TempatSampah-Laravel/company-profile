@@ -3,6 +3,8 @@ Portfolio
 Company profile dengan konten dinamis.
 </b></p>
 
+Demo <a href="https://company.yh2bae.com/">Company Profile</a>
+
 Instalasi
 - download zip <a href="https://codeload.github.com/yh2bae/company-profile/zip/refs/heads/master">disini</a> 
 - atau clone : git clone https://github.com/yh2bae/company-profile.git
