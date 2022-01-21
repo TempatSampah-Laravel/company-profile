@@ -20,7 +20,7 @@ Lalu ketik command dibawah ini
 - php artisan db:seed --class=UserSeeder (mengisi data table users)
 
 Lalu cari file helpers.php di vendor\laravel\framework\src\Illuminate\Foundation\
-- kemudia cari sytac asset seperti di gambar dan tambah "public/".
+- kemudia cari syntac asset seperti di gambar dan tambah "public/".
 
 <img src="https://github.com/yh2bae/readme-image/blob/master/portfolio/setting-asset.png?raw=true">
 
